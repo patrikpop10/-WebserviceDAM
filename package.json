@@ -13,7 +13,7 @@
     "body-parser": "^1.19.0",
     "dateformat": "^4.5.1",
     "express": "^4.17.1",
-    "moment": "^2.29.1",
+    "moment": "^2.30.1",
     "mysql": "^2.18.1"
   }
 }
